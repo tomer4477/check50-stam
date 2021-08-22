@@ -7,5 +7,4 @@ check50:
       moshe2:
        - run: python3 hello.py
          stdout: Hello, world!
-         exit: 0
          
